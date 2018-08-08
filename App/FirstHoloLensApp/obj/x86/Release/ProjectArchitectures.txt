@@ -1,0 +1,1 @@
+D:\Articles\Hololens\FirstHoloLensApp\App\FirstHoloLensApp\FirstHoloLensApp.csproj;x86
